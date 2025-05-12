@@ -1,14 +1,14 @@
 {
   "Bonnen Scannen": {
     "laatste_versie": "1.39",
-    "geblokkeerd": true,
+    "geblokkeerd": false,
     "update_verplicht": true,
     "melding": "Update vereist. Deze versie is verouderd en heeft onderhoud nodig."
   },
-  "programma2": {
-    "laatste_versie": "2.1.3",
-    "geblokkeerd": true,
+  "Container Beheer": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
     "update_verplicht": false,
-    "melding": "Dit programma is geblokkeerd. Neem contact op met de beheerder."
+    "melding": "Welkom! U gebruikt versie {huidige}."
   }
 }
