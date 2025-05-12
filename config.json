@@ -1,0 +1,14 @@
+{
+  "Bonnen Scannen": {
+    "laatste_versie": "1.39",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Update vereist. Download de nieuwste versie via www.jouwsite.nl"
+  },
+  "programma2": {
+    "laatste_versie": "2.1.3",
+    "geblokkeerd": true,
+    "update_verplicht": false,
+    "melding": "Dit programma is geblokkeerd. Neem contact op met de beheerder."
+  }
+}
