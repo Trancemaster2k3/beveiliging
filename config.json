@@ -19,5 +19,40 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "7ZKDeAVbCsp5"
+  },
+  "Oud seizoen": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "3uqqQfP58Abc"
+  },
+  "Zeecontainers": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "EVUqxubUBTuA"
+  },
+  "Retour Klantenbestelling": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "TAuevK0Abp1Z"
+  },
+  "Sleutel en druppel registratie": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "K4Wol2yuYOtD"
+  },
+  "Transport opdrachten": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "XPcVjgQ1Sspx"
   }
 }
