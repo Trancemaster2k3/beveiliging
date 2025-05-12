@@ -1,10 +1,10 @@
 {
   "Bonnen Scannen": {
     "laatste_versie": "1.39",
-    "geblokkeerd": true,
+    "geblokkeerd": false,
     "update_verplicht": true,
     "melding": "Update vereist. Deze versie is verouderd en heeft onderhoud nodig.",
-    "key": "abc123xyz"
+    "key": "abc123xy"
   },
   "Container Beheer": {
     "laatste_versie": "1.0.0",
