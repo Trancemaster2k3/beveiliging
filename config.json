@@ -16,7 +16,7 @@
   "Labels Bestellen": {
     "laatste_versie": "1.16",
     "geblokkeerd": false,
-    "update_verplicht": true,
+    "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "7ZKDeAVbCsp5"
   }
