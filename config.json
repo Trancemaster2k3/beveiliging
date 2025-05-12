@@ -4,6 +4,7 @@
     "geblokkeerd": false,
     "update_verplicht": true,
     "melding": "Update vereist. Deze versie is verouderd en heeft onderhoud nodig."
+    "key": "abc123xyz"
   },
   "Container Beheer": {
     "laatste_versie": "1.0.0",
