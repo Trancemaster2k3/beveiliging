@@ -1,7 +1,7 @@
 {
   "Bonnen Scannen": {
     "laatste_versie": "1.39",
-    "geblokkeerd": false,
+    "geblokkeerd": true,
     "update_verplicht": true,
     "melding": "Update vereist. Download de nieuwste versie via www.jouwsite.nl"
   },
