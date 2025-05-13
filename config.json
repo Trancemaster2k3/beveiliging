@@ -6,13 +6,6 @@
     "melding": "Update vereist. Deze versie is verouderd en heeft onderhoud nodig.",
     "key": "abc123xyz"
   },
-  "Container Beheer": {
-    "laatste_versie": "1.0.0",
-    "geblokkeerd": false,
-    "update_verplicht": false,
-    "melding": "Welkom! U gebruikt versie {huidige}.",
-    "key": ""
-  },
   "Labels Bestellen": {
     "laatste_versie": "1.16",
     "geblokkeerd": false,
@@ -54,5 +47,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "XPcVjgQ1Sspx"
+  },
+  "Container Beheer": {
+    "laatste_versie": "1.35",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "CRTaIEtu6rEm"
   }
 }
