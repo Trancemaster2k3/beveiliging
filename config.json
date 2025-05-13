@@ -36,7 +36,7 @@
   },
   "Retour Klantenbestelling": {
     "laatste_versie": "1.1",
-    "geblokkeerd": true,
+    "geblokkeerd": false,
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "TAuevK0Abp1Z"
