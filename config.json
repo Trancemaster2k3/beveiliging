@@ -35,8 +35,8 @@
     "key": "EVUqxubUBTuA"
   },
   "Retour Klantenbestelling": {
-    "laatste_versie": "1.0.0",
-    "geblokkeerd": false,
+    "laatste_versie": "1.1",
+    "geblokkeerd": true,
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "TAuevK0Abp1Z"
