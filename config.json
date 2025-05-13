@@ -16,7 +16,7 @@
   "Oud seizoen": {
     "laatste_versie": "1.3",
     "geblokkeerd": true,
-    "update_verplicht": false,
+    "update_verplicht": true,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "3uqqQfP58Abc"
   },
