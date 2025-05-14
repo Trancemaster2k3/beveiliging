@@ -1,7 +1,7 @@
 {
   "Bonnen Scannen": {
     "laatste_versie": "1.39",
-    "geblokkeerd": true,
+    "geblokkeerd": false,
     "update_verplicht": false,
     "melding": "Update vereist. Deze versie is verouderd en heeft onderhoud nodig.",
     "key": "abc123xyz"
