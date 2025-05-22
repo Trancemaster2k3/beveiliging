@@ -54,5 +54,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "CRTaIEtu6rEm"
+  },
+  "VAS": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "L86DAoxgS7e7"
   }
 }
