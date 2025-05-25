@@ -61,5 +61,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "L86DAoxgS7e7"
+  },
+  "Retouren Leverancier": {
+    "laatste_versie": "1.11",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "VtN7iz7Hq0Ln"
   }
 }
