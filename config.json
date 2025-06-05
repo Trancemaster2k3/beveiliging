@@ -68,5 +68,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "VtN7iz7Hq0Ln"
+  },
+  "UPP/UPL Labels": {
+    "laatste_versie": "1.7",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "9t2DXlRYCyF1"
   }
 }
