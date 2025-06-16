@@ -75,5 +75,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "9t2DXlRYCyF1"
+  },
+  "Afdeling Opdrachten": {
+    "laatste_versie": "1.23",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "vBbxMlAcR5Ar"
   }
 }
