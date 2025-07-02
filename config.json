@@ -82,5 +82,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "vBbxMlAcR5Ar"
+  },
+  "Transport Ziengs": {
+    "laatste_versie": "1.05",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "dOg5maB8riMY"
   }
 }
