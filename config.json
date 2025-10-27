@@ -89,5 +89,12 @@
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "dOg5maB8riMY"
+  },
+  "Bulk stuks teller": {
+    "laatste_versie": "1.0.0",
+    "geblokkeerd": false,
+    "update_verplicht": false,
+    "melding": "Welkom! U gebruikt versie {huidige}.",
+    "key": "iXkas0im1Xn0"
   }
 }
