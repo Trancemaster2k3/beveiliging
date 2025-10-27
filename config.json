@@ -92,7 +92,7 @@
   },
   "Bulk stuks teller": {
     "laatste_versie": "1.0.0",
-    "geblokkeerd": false,
+    "geblokkeerd": true,
     "update_verplicht": false,
     "melding": "Welkom! U gebruikt versie {huidige}.",
     "key": "iXkas0im1Xn0"
